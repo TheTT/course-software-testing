@@ -6,8 +6,7 @@ Primary assigned application: **12306** (`applications/12306`).
 
 | Name | GitHub | Role |
 | --- | --- | --- |
-| _TBD_ | TheToror | Team lead |
-| _TBD_ | _TBD_ | _TBD_ |
+| Bao Shijie | TheToror | Team lead |
 
 ## Submitted test cases
 
